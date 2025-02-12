@@ -1,0 +1,1 @@
+oyun içi görsel haraketler tamamlandı
