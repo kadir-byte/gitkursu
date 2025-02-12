@@ -1,2 +1,3 @@
 şifrelerim
 API_KEY
+yeni şifrelerim
