@@ -1,0 +1,1 @@
+belirli bir konumda veya temasta level geçişi sağlandı.
